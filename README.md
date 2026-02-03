@@ -17,4 +17,5 @@ git push       - push code to GitHub
 git init
 git add .
 git commit -m "initial commit"
+git remote add origin "github link"
 git push origin main
